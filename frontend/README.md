@@ -12,7 +12,7 @@ Here you can add products to the shopping cart
 ![](img/side.PNG)
 
 ## Product screan
-you can view the product by clicking view, and you will be directed to the following page
+You can view the product by clicking view, and you will be directed to the following page
 ![](img/product.png)
 
 # Getting Started
