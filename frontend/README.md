@@ -1,16 +1,18 @@
-# Project description
+# Project description and design
 
 This is the front end for the e-commerce cart. The website is fully responsive and was designed from scratch
 To find the code go into the src file
 -Technologies used: Node, React, Javascript, HTML/CSS, and Figma for design purposes
 
-## Home page design
+## Home page 
 ![](img/home.PNG)
 
 ## Cart slide
+Here you can add products to the shopping cart
 ![](img/side.PNG)
 
 ## Product screan
+you can view the product by clicking view, and you will be directed to the following page
 ![](img/product.png)
 
 # Getting Started
