@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Project description
+
+This is the front end for the e-commerce cart. The website is fully responsive and was designed from scratch
+To find the code go into the src file
+-Technologies used: Node, React, Javascript, HTML/CSS, and Figma for design purposes
+
+## Home page design
+![](img/home.PNG)
+
+## Cart slide
+![](img/side.PNG)
+
+## Product screan
+![](img/product.png)
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
